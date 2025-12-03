@@ -1,0 +1,20 @@
+Bill of Materials (BOM)
+
+Item, Description, Quantity, Price, Link
+- SG90 Micro Servo, Micro servo to rotate petals,1,$6.99 
+  https://www.amazon.com/WWZMDiB-SG90-Control-Servos-Arduino/dp/B0BKPL2Y21/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Z8zXoZs9nMkNwqQN2AI2Fkurdvj8MGFHhgFJWhnJQ_OheyhdNi8wTetwyToK1nNIGNJPZHPPkiAFg4n3ck13Nx6H5hxvNxkB46FdPM7hjtJtXQM-zqlfMvE2E8yhw9V6n2YetS0r6ZQg51xgeeMRLGQFWms6oyrqhK6R8UEz6GYOBuc1kemRx4ZRf5W_oXHbWFCYMubN5pLI-zuElQM-xnQndqOpeZLDMADIf7B8VcW6ISUZZIyEKrbKdpHtlzvHwzJxKLXdyO5e9-O3_bLXt7cDTX-1VcGBZWSbeiHdz20.NmD4jWz7kSohZVdZMcLsRs1ISZFShczoBtFCxJcCLHk&dib_tag=se&hvadid=617096772904&hvdev=c&hvexpln=0&hvlocphy=9018981&hvnetw=g&hvocijid=9153360482267276789--&hvqmt=e&hvrand=9153360482267276789&hvtargid=kwd-24079600421&hydadcr=4094_13263577&keywords=sg90%2Bmicro%2Bservo&mcid=35f68c28ead63b638bb9a527d4101389&qid=1764778063&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+- Arduino Nano (or Nano ESP32), Microcontroller to control servo and LED, 1, $19.90
+  https://www.amazon.com/Arduino-ABX00092-Bluetooth-MicroPython-Compatible/dp/B0C947C9QS/ref=sr_1_1_sspa?crid=3UR2EI3JBM1H7&dib=eyJ2IjoiMSJ9.GzP-GvhsR81ftjmV7C-hRTJF1r-C6Wh0_gd_2ShCcg3z8kXSpzGyI5l8xupp_EuRYm3xHv9xqbOzRU3mtQSPhafa49m7Iu7ItN13wYlgLlvGO2jySuOFPTZcse_KQjZW52JRFjwfThgwg2QjDWhCdis9b7PQoGTiMs_zM1jQ8COA2VjS_wrkSjzLU29z2MZBMWMn74YigAn-gZbkgVLHWBONX59pZnI3dTLOroWLGro.9uz8andCQ8uOFfT6NQO18FpkwBinr04JfkfMYeNMaFw&dib_tag=se&keywords=Arduino%2BNano%2B(or%2BNano%2BESP32)&qid=1764778197&sprefix=arduino%2Bnano%2Bor%2Bnano%2Besp32%2B%2Caps%2C432&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+- 5mm LED, LED for glowing center, 1, $3.97,
+  https://www.amazon.com/California-JOS-50-PCS-Colorful/dp/B0CR886L92/ref=sr_1_3?crid=2S74FZ7RMS8JF&dib=eyJ2IjoiMSJ9.vePaneMhlr1inA10ONCv-Wea4DAzWIAPrKdGHird7LhFc-OIbnWKhmqBvL9T6GOj3PJoXQ1TqJVfXr_RuoPx4GIkV-eBmnc1rQ-_D3D62Cg8GUp_9S_zI7ICyuJKnRS2WKEVKZJA6MXkwF7KHaTR4Ak_gCwFt5OjJ_hIHEe_TqO8wntcsdhk9Yl80TrqO0QTTPpQfNjvJsQR18bQ3xUkNucaYCprkRn80PiXuvMSV7M.OPje2ykaitgDHz8HTVgdQiEwHjR6XabbfRqLLqCONtA&dib_tag=se&keywords=5mm%2Bled&qid=1764778293&sprefix=5mm%2Ble%2Caps%2C298&sr=8-3&th=1
+
+- 220 Ohm Resistor, Resistor for LED protection, 1, $4.59,
+  https://www.amazon.com/California-JOS-Resistance-CJ50-004-220/dp/B0BDKQSZHM/ref=sr_1_3?crid=2RP6S29AJITKO&dib=eyJ2IjoiMSJ9.pq8IXZtwkjU13efAoUQ016z7NCJGZDcdcQZ4-GNHnvWitTnwyaJzP1P5OpcB587n_YViw8E734A80lo3a2qR7A-G4LzRwrCAAc43ulfkw9ElkzjWx7XEtHUWj7nmNc3LtSpK4mgxtgmMtfXZPQ_phuhAy6qJhnYZmqGRiUf0Zt6fXeaNubaKe5TUfZ8MJGAEhnbLDGfZ8xh6AbHgRFeVNV7W2_fGXNNzKi7cFhMlXVQ.LriYr4qQ0vbgGNOrr6afkeNtiWZE78GriS7qkhnX7E4&dib_tag=se&keywords=220+Ohm+Resistor%2C&qid=1764778388&sprefix=220+ohm+resistor%2C%2Caps%2C1938&sr=8-3
+
+- Momentary Push Button, Button to trigger petal rotation,1, $5.49,
+  https://www.amazon.com/DAOKI-100Pcs-6x6x5mm-Momentary-Tactile/dp/B07X8T9D2Q/ref=sr_1_14?crid=2EZHQMEKDJPV8&dib=eyJ2IjoiMSJ9.lYz8Zkt26j9YEZCpriYvITNa9BEciifCbphpW8_NFjCTXotxn64x6LLKDMDX_g2NVsOwKbK4TBnj7M8pV8oMByBDDgG0aNqy5hb_prxmF79RsgE3e99_FY_zU_HN_Bvye0gW-6h_5b2AWLtKlGMybugIX1WNfDcXq2ZjnDEIE4GNG1jAINT2VmmNrcl-wx5XY9oPagtvQJCGjmzw9ypYqudlqfVbeE57FGERoFY1Xnk.kPA6DhfkvZXaZ5Tf9aTI7V7Ex8ZkLq3OOgZ7GKeLC1s&dib_tag=se&keywords=Momentary+Push+Button&qid=1764778525&sprefix=momentary+push+button%2Caps%2C581&sr=8-14
+
+- Jumper Wires, wires for connections,1, $3.99
+  https://www.amazon.com/California-JOS-Breadboard-Optional-Multicolored/dp/B0BRTHR2RL/ref=sr_1_4?crid=2PP7K0BIKTPHL&dib=eyJ2IjoiMSJ9.QGbaFF62mgZ1Tf0J7CajkG-tzKHClWLERq-mJwCUmzh2Y0jLazH6hUVnaCLXbM3oXBsa6nIntnwLkV3fBJaFYuAM1uNV29i2917uSNMK7i5Y72TgOfY2K5WRuftIRv5AZcT2nnllVdRY4NADLFF2g_U3G84jgay_XCuPfZMgn5dt3-Rq-rZP6svIY-2_Nt0OpH-wpwpyFMNgvUQZqcbAXQYiYJwsIXaFzDQ_DyNuvH4.GrSmoMA_vaUvuyoOL78gfz7b983j5KXqPEsVeoSw7vg&dib_tag=se&keywords=Jumper%2BWires&qid=1764778640&sprefix=jumper%2Bwires%2Caps%2C214&sr=8-4&th=1
