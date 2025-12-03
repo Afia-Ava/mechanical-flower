@@ -1,2 +1,3 @@
 # mechanical-flower
-A 3D-printed flower that opens its petals with a servo and glows gently from the inside. A button will trigger the petals to open.
+A 3D-printed flower that rotates its petals with a servo and glows gently from the inside. A button will trigger the petals to move. I'll use Tinkercad to design all the 3D-printed parts, including the petals, a central hub, a servo mount to hold it, a small base to hide the electronics, etc., and export the parts as STL files and print them using PLA filament. Electronics I'll need will include a micro servo to open the petals, an LED in the center of the flower, a resistor for the LED, a push button to trigger the bloom, a microcontroller, and USB power from a battery. There will be a little coding involved to turn on the LED and rotate the petals as the button is pressed.
+
